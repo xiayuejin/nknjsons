@@ -1,5 +1,6 @@
 ﻿{
   "BeneficiaryAddr": "NKNVYGWtnxaM1AqyiQWuBcDVSTa1rYT3kDbN",
+  "SyncMode": "light",
   "SeedList": [
     "http://mainnet-seed-0001.nkn.org:30003",
     "http://mainnet-seed-0002.nkn.org:30003",
